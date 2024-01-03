@@ -120,6 +120,11 @@ const TagComponent = () => {
             "https://www.youtube.com/embed/eapyKX-_erM?si=li-nK_Hy2MsKhWjc",
         },
         {
+          title: "Orient - Kitchen Appliances",
+          videoUrl:
+            "https://www.youtube.com/embed/b55DdUInARQ?si=0rCt9rQjPeY6kk_D",
+        },
+        {
           title: "Puma - Beauty & Fashion",
           videoUrl:
             "https://www.youtube.com/embed/gyWE1W1WcMo?si=wguJOPgEZqD0PqA8",
@@ -227,6 +232,11 @@ const TagComponent = () => {
           title: "Xebia Academia - Education",
           videoUrl:
             "https://www.youtube.com/embed/eapyKX-_erM?si=li-nK_Hy2MsKhWjc",
+        },
+        {
+          title: "Orient - Kitchen Appliances",
+          videoUrl:
+            "https://www.youtube.com/embed/b55DdUInARQ?si=0rCt9rQjPeY6kk_D",
         },
       ],
       "Brand Videos": [
@@ -892,7 +902,7 @@ const TagComponent = () => {
         <span className="text-black text-3xl lg:text-5xl font-bold font-nunito leading-[56px]">
           Our{" "}
         </span>
-        <span className="multiverse-text text-3xl lg:text-5xl font-bold font-nunito leading-[56px]">
+        <span className=" text-3xl lg:text-5xl font-bold font-nunito leading-[56px]">
           Portfolio
         </span>
       </div>

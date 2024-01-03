@@ -8,7 +8,7 @@ const CreativeCrew = () => {
         <span className="text-black text-3xl lg:text-5xl font-bold font-nunito leading-[28px] lg:leading-[56px]">
           Your{" "}
         </span>
-        <span className="multiverse-text text-3xl lg:text-5xl font-bold font-nunito leading-[28px] lg:leading-[56px]">
+        <span className="text-3xl lg:text-5xl font-bold font-nunito leading-[28px] lg:leading-[56px]">
           Creative Crew
         </span>
       </div>

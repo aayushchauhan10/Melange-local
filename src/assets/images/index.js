@@ -26,6 +26,12 @@ import ind7 from "./ind7.png";
 import ind8 from "./ind8.png";
 import ind9 from "./ind9.png";
 import ind10 from "./ind10.png";
+import ind11 from "./ind11.png";
+import ind12 from "./ind12.png";
+import ind13 from "./ind13.png";
+import ind14 from "./ind14.png";
+import ind15 from "./ind15.png";
+import ind16 from "./ind16.png";
 import app1 from "./app1.svg";
 import app2 from "./app2.svg";
 import app3 from "./app3.svg";
@@ -128,6 +134,12 @@ import p2 from "./p2.png";
 import p3 from "./p3.png";
 
 export {
+  ind11,
+  ind12,
+  ind13,
+  ind14,
+  ind15,
+  ind16,
   p1,
   p2,
   p3,

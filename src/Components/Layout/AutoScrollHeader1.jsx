@@ -8,7 +8,7 @@ const AutoScrollHeader1 = ({ images, title }) => {
         <span className="text-black lg:text-5xl text-3xl font-bold font-nunito lg:leading-[56px]">
           Our{" "}
         </span>
-        <span className="multiverse-text lg:text-5xl text-3xl font-bold font-nunito lg:leading-[56px]">
+        <span className=" lg:text-5xl text-3xl font-bold font-nunito lg:leading-[56px]">
           Clientele
         </span>
       </div>

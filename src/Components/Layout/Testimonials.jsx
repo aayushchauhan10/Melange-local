@@ -90,7 +90,7 @@ const Testimonials = () => {
   return (
     <>
       <div className="text-center font-nunito mb-10 lg:pt-20 pt-16">
-        <span className="multiverse-text text-3xl lg:text-5xl font-bold font-nunito leading-[56px]">
+        <span className="text-3xl lg:text-5xl font-bold font-nunito leading-[56px]">
           Testimonials
         </span>
       </div>

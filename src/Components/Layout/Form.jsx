@@ -174,7 +174,7 @@ const Form = () => {
           <input
             value={message}
             onChange={handleMessageChange}
-            placeholder="Your message"
+            placeholder="Brief us about your requirements"
             className="w-full outline-none font-nunito lg:h-12 h-[39px] lg:rounded-none rounded bg-white p-3 text-[#6A6A68] placeholder-[#6A6A68] resize-none"
           />
         </div>

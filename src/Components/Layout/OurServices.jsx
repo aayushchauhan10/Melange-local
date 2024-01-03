@@ -23,6 +23,7 @@ import {
   Audio5,
   Audio6,
   Audio7,
+  l5,
 } from "../../assets/images";
 
 const itemsData = {
@@ -40,7 +41,7 @@ const itemsData = {
   ],
   Photography: [
     { id: 10, image: photo1, title: "Industrial Photography" },
-    { id: 11, image: photo2, title: "Lifestyle Photography" },
+    { id: 11, image: l5, title: "Lifestyle Photography" },
     { id: 12, image: photo3, title: "Product Photography" },
     { id: 13, image: photo4, title: "Food Photography" },
     { id: 14, image: photo5, title: "E-Commerce Photography" },
@@ -88,7 +89,7 @@ const TagSwitcher = () => {
         <span className="text-black text-3xl lg:text-5xl font-bold font-['Nunito Sans'] leading-[56px]">
           Our{" "}
         </span>
-        <span className="multiverse-text text-3xl lg:text-5xl font-bold font-['Nunito Sans'] leading-[56px]">
+        <span className=" text-3xl lg:text-5xl font-bold font-['Nunito Sans'] leading-[56px]">
           Services
         </span>
       </div>
