@@ -51,7 +51,7 @@ import sw9 from "./sw9.svg";
 import sw10 from "./sw10.svg";
 import sw11 from "./sw11.svg";
 import sw12 from "./sw12.svg";
-import logo from "./logo2x.svg";
+import logo from "./logo3x.png";
 import melange_logo2 from "./melange_logo2.png";
 import linkedin from "./linkedin.png";
 import instagram from "./instagram.png";
