@@ -12,7 +12,7 @@ const Footer = () => {
               <img
                 src={melange_logo2}
                 alt=""
-                className="mb-6 md:mb-0 w-auto h-auto"
+                className="mb-6 md:mb-0 w-24 h-24"
               />
               <div className="lg:w-[100%]  text-white text-base lg:font-semibold font-nunito leading-normal lg:mt-5 mt-2 ">
                 We're a team of skilled and experienced filmmakers, producers,
@@ -69,7 +69,7 @@ const Footer = () => {
               </a>
             </div>
             <div className="mb-2 md:mb-2 ml-0 md:ml-0 lg:mt-4">
-              <h2 className="font-bold text-lg md:text-xl mb-0 md:mb-0">
+              <h2 className="font-bold text-lg md:text-xl mb-2 md:mb-0">
                 Connect with us
               </h2>
               <div className="flex space-x-2 lg:mt-3">
@@ -77,14 +77,14 @@ const Footer = () => {
                   href="https://www.linkedin.com/company/melangedigital/"
                   target="_blank"
                 >
-                  <img src={linkedin} alt="" className="w-9" />
+                  <img src={linkedin} alt="" className="w-10" />
                 </a>
                 <a
                   href="https://www.instagram.com/melangedigital.in/"
                   target="_blank"
                 >
                   {" "}
-                  <img src={instagram} alt="" />
+                  <img src={instagram} alt="" className="w-10" />
                 </a>
               </div>
             </div>

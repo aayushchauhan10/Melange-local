@@ -18,14 +18,14 @@ const PowerCreativity = ({ images, title }) => {
       <div className="marquee lg:mt-8">
         <div className="marqueeGroup">
           {images.map((el, index) => (
-            <div key={index} className="imageGroup1">
+            <div key={index} className="imageGroup3">
               <img src={el} className="imaGe100" />
             </div>
           ))}
         </div>
         <div className="marqueeGroup">
           {images.map((el, index) => (
-            <div key={index} className="imageGroup1">
+            <div key={index} className="imageGroup3">
               <img src={el} className="imaGe100" />
             </div>
           ))}
