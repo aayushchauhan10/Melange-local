@@ -38,7 +38,7 @@ import app3 from "./app3.svg";
 import app4 from "./app4.svg";
 import app5 from "./app5.svg";
 import app6 from "./app6.svg";
-import line from "./line.svg";
+import line from "./line.png";
 import sw1 from "./sw1.png";
 import sw2 from "./sw2.png";
 import sw3 from "./sw3.png";
