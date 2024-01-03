@@ -80,7 +80,7 @@ const Form = () => {
 
       // Send form data to nodemailer endpoint
       const { data } = await axios.post(
-        "https://long-gray-tick-toga.cyclic.app/send-email",
+        "https://good-gray-hermit-crab-sari.cyclic.app/send-email",
         // "http://localhost:3001/send-email",
         formData
       );
