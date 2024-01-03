@@ -80,7 +80,7 @@ const Form = () => {
 
       // Send form data to nodemailer endpoint
       const { data } = await axios.post(
-        "https://good-gray-hermit-crab-sari.cyclic.app/send-email",
+        "https://good-gray-hermit-crab-sari.cyclic.app/",
         // "http://localhost:3001/send-email",
         formData
       );
@@ -95,7 +95,6 @@ const Form = () => {
 
       setLoader(false);
 
-      // Redirect to the thank you page after successful submission
       window.location.href = "/thankyou";
     } catch (error) {
       console.log(error);
@@ -103,7 +102,7 @@ const Form = () => {
   };
   return (
     <div
-      className="formSec  pt-[60px] lg:mt-[110px] mt-20 pb-[48px] lg:px-20 px-5 font-nunito relative"
+      className="formSec pt-[60px] lg:mt-[110px] mt-20 pb-[48px] lg:px-20 px-5 font-nunito relative"
       id="contactus"
     >
       <div className="lg:text-center text-zinc-900 lg:text-[40px] text-2xl font-semibold lg:leading-[48px] leading-[34px]">
