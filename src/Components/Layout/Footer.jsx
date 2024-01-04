@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { melange_logo2, linkedin, instagram } from "../../assets/images";
+import { melange_logo2, linkedin, instagram, web } from "../../assets/images";
 // import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -85,6 +85,10 @@ const Footer = () => {
                 >
                   {" "}
                   <img src={instagram} alt="" className="w-10" />
+                </a>
+                <a href="https://melangedigital.in/" target="_blank">
+                  {" "}
+                  <img src={web} alt="" className="w-10" />
                 </a>
               </div>
             </div>

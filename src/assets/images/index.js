@@ -132,8 +132,10 @@ import e9 from "./e9.png";
 import p1 from "./p1.png";
 import p2 from "./p2.png";
 import p3 from "./p3.png";
+import web from "./web.png";
 
 export {
+  web,
   ind11,
   ind12,
   ind13,

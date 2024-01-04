@@ -150,7 +150,7 @@ const TagComponent = () => {
             "https://www.youtube.com/embed/vMw3USNmiAw?si=j7chF2RuIPF9WKpf",
         },
         {
-          title: "Swarvoski - Jewellery",
+          title: "Swarovski - Jewellery",
           videoUrl:
             "https://www.youtube.com/embed/JLBsWSkugho?si=_xGsMoPxLvTcocWW",
         },
@@ -237,6 +237,11 @@ const TagComponent = () => {
           title: "Orient - Kitchen Appliances",
           videoUrl:
             "https://www.youtube.com/embed/b55DdUInARQ?si=0rCt9rQjPeY6kk_D",
+        },
+        {
+          title: "Vivo - Consumer Electronics	",
+          videoUrl:
+            "https://www.youtube.com/embed/vMw3USNmiAw?si=HYZauOMU2TIwzfkP",
         },
       ],
       "Brand Videos": [
